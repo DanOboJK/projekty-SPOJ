@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class studnia {
+public class SkarbFinder {
 
 
     public void kalkulator() {
