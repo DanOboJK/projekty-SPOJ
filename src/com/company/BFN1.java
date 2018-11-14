@@ -25,6 +25,7 @@ public class BFN1 {
                 liczba = 0;
                 podejscie = 0;
         }
+
         for (int liczbaPorzadkowa = 0; liczbaPorzadkowa < tablicaWynikow.length; liczbaPorzadkowa++){
             System.out.println(tablicaWynikow[liczbaPorzadkowa][0] + " " + tablicaWynikow[liczbaPorzadkowa][1]);
         }
